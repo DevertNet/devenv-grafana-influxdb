@@ -1,4 +1,4 @@
-# devenv.sh Grafana & InfluxDB exmaple
+# devenv.sh Grafana & InfluxDB example boilerplate
 
 This example boilerplate to use grafana and influxdb with devenv.sh.
 Grafana and influxdb will be launched on `devenv up`.
